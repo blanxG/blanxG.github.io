@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD student at LJLL and LOCEAN. Contact: prenom dot nom at sorbonne-universite.fr."
+subtitle: "PhD student @ LJLL and LOCEAN. Contact: firstname dot name at sorbonne-universite.fr."
 
 profile:
   align: right
