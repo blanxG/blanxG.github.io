@@ -1,19 +1,17 @@
-name: Jane Doe
-label: PhD Student
-email: jane.doe@example.com
-location: Paris, FR
+cv:
+  name: Your Name
+  label: PhD Student
+  email: your.email@sorbonne-universite.fr
+  location: Paris, FR
 
-education:
-  - institution: Sorbonne University, LJLL & LOCEAN
-    location: Paris, France
-    degree: PhD
-    year: 2025–ongoing
-    description:
-      - Working on initialization of ocean models through theoretical and numerical analysis, and machine learning.
+  sections:
+    Education:
+      - institution: Sorbonne University, LJLL & LOCEAN
+        location: Paris, France
+        area: Applied Mathematics
+        studyType: PhD
+        start_date: 2025
+        end_date: ongoing
+        highlights:
+          - Currently working on the initialization of ocean models through theoretical and numerical analysis, and machine learning.
 
-experience:
-  - company: Example Lab
-    position: Research Assistant
-    year: 2024–2025
-    description:
-      - Assisted with computational modeling of ocean currents.
