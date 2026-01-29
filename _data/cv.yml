@@ -1,37 +1,19 @@
-
-name: Blandine Gorce
-label: PhD student
-email: blandine dot gorce at sorbonne-universite dot fr
+name: Jane Doe
+label: PhD Student
+email: jane.doe@example.com
 location: Paris, FR
 
+education:
+  - institution: Sorbonne University, LJLL & LOCEAN
+    location: Paris, France
+    degree: PhD
+    year: 2025–ongoing
+    description:
+      - Working on initialization of ocean models through theoretical and numerical analysis, and machine learning.
 
-Education:
-      - institution: Sorbonne University, LJLL & LOCEAN
-        location: Paris, France
-        #url: https://www.uzh.ch/
-        area: Applied Mathematics
-        studyType: PhD
-        start_date: 2025
-        end_date: ongoing
-        highlights:
-          - Currently working on the initialization of ocean models through theoretical and numerical analysis, and machine learning.
-
-      - institution: Ecole Normale Supérieur (ENS) Paris-Saclay
-        location: Paris, France
-        area: Mathematics, Machine learning
-        studyType: Master
-        start_date: 2024
-        end_date: 2025
-        highlights:
-          - Semester 1. Object Recognition, Time Series Analysis, Probabilistic Graphical Models, Deep Learning and Signal Processing, Convex Optimization.
-          - Semester 2. Interactions, Deep Learning, Generative Models, Remote Sensing, Statistical Learning for Geosciences.
-
-      - institution: ISAE-Supaero
-        location: Toulouse, France
-        area: Aerospace engineering
-        studyType: Master
-        start_date: 2019
-        end_date: 2022
-        highlights:
-          - Including an exchange semester at Politechnico di Milano in Aerospace Engineering during Master 1. 
-
+experience:
+  - company: Example Lab
+    position: Research Assistant
+    year: 2024–2025
+    description:
+      - Assisted with computational modeling of ocean currents.
