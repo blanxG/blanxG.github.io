@@ -1,8 +1,17 @@
 cv:
   name: Blandine Gorce
   label: PhD Student
+  email: ""
   location: Paris, FR
   image: ""
+  summary: ""
+
+  address:
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
   social_networks:
     - network: GitHub
@@ -86,23 +95,23 @@ cv:
         location: ""
         start_date: ""
         end_date: ""
-        summary: 
-        highlights:
+        summary: ""
+        highlights: ""
           
 
     Awards:
-      - title:
-        authors:
-        date: 
-        awarder: 
-        url: 
-        summary: 
+      - title: ""
+        authors: ""
+        date: ""
+        awarder: ""
+        url: ""
+        summary: ""
 
-      - title: 
-        authors:
-        date: 
-        awarder: 
-        summary: 
+      - title: ""
+        authors: ""
+        date: ""
+        awarder: ""
+        summary: ""
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
