@@ -7,11 +7,11 @@ cv:
   summary: ""
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: ""
+    city: ""
+    region: ""
+    postalCode: ""
+    countryCode: ""
 
   social_networks:
     - network: GitHub
@@ -40,7 +40,7 @@ cv:
         url: https://ens-paris-saclay.fr
         area: Mathematics
         studyType: Master
-        start_date: "2024-09
+        start_date: "2024-09"
         end_date: "2025-09"
         score: ""
         courses: ""
