@@ -21,13 +21,27 @@ cv:
 
   sections:
     Education:
+      - institution: Sorbonne University
+        location: Paris, France
+        url: 
+        area: "Mathematics - Oceanography"
+        studyType: PhD
+        start_date: "2024-10"
+        end_date: Present
+        score: ""
+        courses: ""
+        highlights:
+          - Description 1.
+          - Description 2.
+
+    
       - institution: ENS Paris Saclay
         location: Paris, France
         url: https://ens-paris-saclay.fr
         area: Mathematics
         studyType: Master
-        start_date: 2024
-        end_date: 2025
+        start_date: "2024-09
+        end_date: "2025-09"
         score: ""
         courses: ""
         highlights:
@@ -37,15 +51,15 @@ cv:
       - institution: ISAE-Supearo
         location: Toulouse, France
         area: Aerospace Engineering
-        studyType: Engineering diploma (Master)
-        start_date: 2018
-        end_date: 2022
+        studyType: "Engineering diploma (Master)"
+        start_date: "2018-09"
+        end_date: "2022-09"
         highlights:
-          - Exchange semester at Politechnico di Milano in the Aerospace Master
+          - Exchange semester at Politechnico di Milano in the Aerospace Master.
           
       - institution: Lycée Champollion 
         location: Grenoble, France
-        area: Mathematics - Physics
+        area: "Mathematics - Physics"
         studyType: Classes préparatoires
         start_date: 2018
         end_date: 2022
@@ -53,7 +67,7 @@ cv:
           - Description 1.
 
     Experience:
-     - company: IPSL - Institut Pierre-Simon Laplace
+     - company: "IPSL - Institut Pierre-Simon Laplace"
         position: Research Intern
         location: Paris, France
         start_date: 2024
@@ -83,7 +97,7 @@ cv:
         start_date: 2021
         end_date: 2021
 
-      - company: IRAP, Institut de Recherche en Astrophysique et Planétologie
+      - company: "IRAP - Institut de Recherche en Astrophysique et Planétologie"
         position: Research Intern
         location: Toulouse, France
         start_date: 2020
