@@ -1,14 +1,14 @@
 cv:
   name: Blandine Gorce
   label: PhD Student
-  email: ""
+  email: "blandine dot gorce at locean dot ipsl dot fr"
   location: Paris, FR
   image: ""
   summary: ""
 
   address:
     street: ""
-    city: ""
+    city: "Paris"
     region: ""
     postalCode: ""
     countryCode: ""
@@ -26,15 +26,13 @@ cv:
         url: 
         area: "Mathematics - Oceanography"
         studyType: PhD
-        start_date: "2024-10"
+        start_date: "2025-10"
         end_date: Present
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Initialisation of oceanic models - Theoretical and numerical analysis and learning.
 
-    
       - institution: ENS Paris Saclay
         location: Paris, France
         url: https://ens-paris-saclay.fr
@@ -45,8 +43,7 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Coursework: Object Recognition, Time Series Analysis, Probabilistic Graphical Models, Deep Learning and Signal Processing, Convex Optimization, Interactions, Deep Learning, Generative Models, Remote Sensing, Statistical Learning for Geosciences."
 
       - institution: ISAE-Supearo
         location: Toulouse, France
@@ -55,6 +52,7 @@ cv:
         start_date: "2018-09"
         end_date: "2022-09"
         highlights:
+          - Major in Earth Observation, minor in Conception and Operation of Space Systems.
           - Exchange semester at Politechnico di Milano in the Aerospace Master.
           
       - institution: Lycée Champollion 
@@ -64,7 +62,8 @@ cv:
         start_date: 2018
         end_date: 2022
         highlights:
-          - Description 1.
+          - Mathematics & physics coursework leading to highly selective entrance exams for the French ”Grandes Ecoles”.
+          - Implementation of an algorithm, using Python, to simulate the deviation of seismic waves with metamaterials.
 
     Experience:
       - company: "IPSL - Institut Pierre-Simon Laplace"
@@ -81,7 +80,9 @@ cv:
         end_date: 2024
         summary: Working on modeling aspects of regenerative life support systems for future Mars missions with the MELiSSA project.
         highlights:
-          - Highlights
+          - Developement and implementation, using Matlab, of sizing models for integration of future regenerative life support systems.
+          - Coordination and support of pilot projects for the transfer of space recycling technologies for application on Earth e.g. urine recycling systems for maritime applications.
+          - Supervision of engineering students on preliminary design of space habitats projects.
 
       - company: European Space Agency
         position: Life Support System Engineer Intern
@@ -96,12 +97,18 @@ cv:
         location: Lyon, France
         start_date: 2021
         end_date: 2021
+        highlights :
+          - Design and implementation, in Python, of an algorithm to predict acute Chronic Obstructive Pulmonary Disease events using heart rate variability measurements.
+          - "Design of an experimental protocol to acquire and process new data. My work has been used for: Taoum, Bisiaux, & al. Validity of Ultra-Short-Term HRV Analysis Using PPG—A Preliminary Study. Sensors 2022, 22, 7995. https://doi.org/10.3390/s22207995."
 
       - company: "IRAP - Institut de Recherche en Astrophysique et Planétologie"
         position: Research Intern
         location: Toulouse, France
         start_date: 2020
         end_date: 2020
+        highlights: 
+          - Design and implementation, in Python, of an algorithm to model the evolution of plasma parameters in the solar corona along the magnetic field lines during coronal mass ejections.
+          - "Update a solar map representation for a space weather prediction tool: http://connect-tool.irap.omp.eu/" Associated article: Poedts, Stefaan, & al. EUropean Heliospheric FORecasting Information Asset 2.0. Jan. 2020, https://doi.org/10.1051/swsc/2020055."
 
     Volunteer:
       - company: ""
@@ -159,16 +166,19 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: French
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
+      - name: German
+        summary: "Moderate"
+
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Machine Learning, Earth and Ocean modelization, Numerical analysis"
 
     Certificates:
       - name: Machine Learning
