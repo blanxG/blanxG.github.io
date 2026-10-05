@@ -11,41 +11,36 @@ cv:
     city: "Paris"
     region: ""
     postalCode: ""
-    countryCode: ""
+    countryCode: "FR"
 
   social_networks:
     - network: GitHub
       username: blanxG
     - network: LinkedIn
-      username: blandine.gorce
+      username: bl-gorce
 
   sections:
     Education:
       - institution: Sorbonne University
         location: Paris, France
-        url: 
         area: "Mathematics - Oceanography"
         studyType: PhD
         start_date: "2025-10"
         end_date: Present
-        score: ""
-        courses: ""
         highlights:
-          - Initialisation of oceanic models - Theoretical and numerical analysis and learning.
+          - "Initialisation of oceanic models: theoretical and numerical analysis and learning."
 
-      - institution: ENS Paris Saclay
+      - institution: ENS Paris-Saclay
         location: Paris, France
         url: https://ens-paris-saclay.fr
         area: Mathematics
         studyType: Master
         start_date: "2024-09"
         end_date: "2025-09"
-        score: ""
-        courses: ""
         highlights:
           - "Coursework: Object Recognition, Time Series Analysis, Probabilistic Graphical Models, Deep Learning and Signal Processing, Convex Optimization, Interactions, Deep Learning, Generative Models, Remote Sensing, Statistical Learning for Geosciences."
 
-      - institution: ISAE-Supearo
+      - institution: ISAE-SUPAERO
         location: Toulouse, France
         area: Aerospace Engineering
         studyType: "Engineering diploma (Master)"
@@ -53,117 +48,71 @@ cv:
         end_date: "2022-09"
         highlights:
           - Major in Earth Observation, minor in Conception and Operation of Space Systems.
-          - Exchange semester at Politechnico di Milano in the Aerospace Master.
-          
-      - institution: Lycée Champollion 
+          - Exchange semester at Politecnico di Milano in the Aerospace Master.
+
+      - institution: Lycée Champollion
         location: Grenoble, France
         area: "Mathematics - Physics"
         studyType: Classes préparatoires
-        start_date: 2018
-        end_date: 2022
+        start_date: "2018"
+        end_date: "2022"
         highlights:
-          - Mathematics & physics coursework leading to highly selective entrance exams for the French ”Grandes Ecoles”.
+          - "Mathematics & physics coursework leading to highly selective entrance exams for the French \"Grandes Écoles\"."
           - Implementation of an algorithm, using Python, to simulate the deviation of seismic waves with metamaterials.
 
     Experience:
       - company: "IPSL - Institut Pierre-Simon Laplace"
         position: Research Intern
         location: Paris, France
-        start_date: 2024
-        end_date: 2024
-        summary: Working on conditional generative models for ocean modelization. 
-        
+        start_date: "2024"
+        end_date: "2024"
+        summary: Working on conditional generative models for ocean modelling.
+
       - company: European Space Agency
         position: Life Support System Engineer
         location: Noordwijk, Netherlands
-        start_date: 2022
-        end_date: 2024
-        summary: Working on modeling aspects of regenerative life support systems for future Mars missions with the MELiSSA project.
+        start_date: "2022"
+        end_date: "2024"
+        summary: Working on modelling aspects of regenerative life support systems for future Mars missions with the MELiSSA project.
         highlights:
-          - Developement and implementation, using Matlab, of sizing models for integration of future regenerative life support systems.
-          - Coordination and support of pilot projects for the transfer of space recycling technologies for application on Earth e.g. urine recycling systems for maritime applications.
-          - Supervision of engineering students on preliminary design of space habitats projects.
+          - Development and implementation, using Matlab, of sizing models for integration of future regenerative life support systems.
+          - "Coordination and support of pilot projects for the transfer of space recycling technologies for application on Earth, e.g. urine recycling systems for maritime applications."
+          - Supervision of engineering students on preliminary design of space habitat projects.
 
       - company: European Space Agency
         position: Life Support System Engineer Intern
         location: Noordwijk, Netherlands
-        start_date: 2022
-        end_date: 2022
+        start_date: "2022"
+        end_date: "2022"
         highlights:
-          - Working on modeling aspects of regenerative life support systems for future Mars missions with the MELiSSA project and lessons learned from previous life support systems payloads. 
+          - Working on modelling aspects of regenerative life support systems for future Mars missions with the MELiSSA project and lessons learned from previous life support systems payloads.
 
       - company: BIOSENCY
         position: Signal Processing Intern
         location: Lyon, France
-        start_date: 2021
-        end_date: 2021
-        highlights :
+        start_date: "2021"
+        end_date: "2021"
+        highlights:
           - Design and implementation, in Python, of an algorithm to predict acute Chronic Obstructive Pulmonary Disease events using heart rate variability measurements.
-          - "Design of an experimental protocol to acquire and process new data. My work has been used for: Taoum, Bisiaux, & al. Validity of Ultra-Short-Term HRV Analysis Using PPG—A Preliminary Study. Sensors 2022, 22, 7995. https://doi.org/10.3390/s22207995."
+          - "Design of an experimental protocol to acquire and process new data. My work has been used for: Taoum, Bisiaux, et al. Validity of Ultra-Short-Term HRV Analysis Using PPG—A Preliminary Study. Sensors 2022, 22, 7995. https://doi.org/10.3390/s22207995"
 
       - company: "IRAP - Institut de Recherche en Astrophysique et Planétologie"
         position: Research Intern
         location: Toulouse, France
-        start_date: 2020
-        end_date: 2020
-        highlights: 
+        start_date: "2020"
+        end_date: "2020"
+        highlights:
           - Design and implementation, in Python, of an algorithm to model the evolution of plasma parameters in the solar corona along the magnetic field lines during coronal mass ejections.
-          - "Update a solar map representation for a space weather prediction tool: http://connect-tool.irap.omp.eu/" Associated article: Poedts, Stefaan, & al. EUropean Heliospheric FORecasting Information Asset 2.0. Jan. 2020, https://doi.org/10.1051/swsc/2020055."
-
-    Volunteer:
-      - company: ""
-        position: ""
-        location: ""
-        start_date: ""
-        end_date: ""
-        summary: ""
-        highlights: ""
-          
-
-    Awards:
-      - title: ""
-        authors: ""
-        date: ""
-        awarder: ""
-        url: ""
-        summary: ""
-
-      - title: ""
-        authors: ""
-        date: ""
-        awarder: ""
-        summary: ""
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - "Update of a solar map representation for a space weather prediction tool (http://connect-tool.irap.omp.eu/). Associated article: Poedts, Stefaan, et al. EUropean Heliospheric FORecasting Information Asset 2.0. 2020, https://doi.org/10.1051/swsc/2020055"
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, Matlab"
+
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "Deep Learning, Generative Models, Statistical Learning, Time Series Analysis"
 
     Languages:
       - name: French
@@ -176,40 +125,6 @@ cv:
         summary: "Moderate"
 
     Interests:
-      - name: Physics
+      - name: Research
         icon: fa-solid fa-tag
-        keywords: "Machine Learning, Earth and Ocean modelization, Numerical analysis"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        keywords: "Machine Learning, Earth and Ocean modelling, Numerical analysis"
